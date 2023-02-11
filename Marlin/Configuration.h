@@ -1221,7 +1221,7 @@
  */
 #define DEFAULT_AXIS_STEPS_PER_UNIT \
   {                                 \
-    100, 100, 400, 418              \
+    100, 100, 400, 400              \
   }
 
 /**
